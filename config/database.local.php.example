@@ -1,0 +1,8 @@
+<?php
+return [
+    'host' => 'localhost',
+    'port' => '3306',
+    'name' => 'seu_banco',
+    'user' => 'seu_usuario',
+    'pass' => 'sua_senha',
+];

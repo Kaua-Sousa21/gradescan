@@ -1,0 +1,11 @@
+<?php
+return [
+    'name' => 'Gabarito Online',
+    'base_path' => '',
+    'school_name' => 'Sua Escola',
+    'timezone' => 'America/Fortaleza',
+    'production' => true,
+    'force_https' => true,
+    'session_idle_minutes' => 30,
+    'session_absolute_hours' => 10,
+];

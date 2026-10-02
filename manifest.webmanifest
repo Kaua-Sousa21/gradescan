@@ -1,0 +1,9 @@
+{
+  "name": "Gabarito Online",
+  "short_name": "Gabarito",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f5f7fb",
+  "theme_color": "#111827",
+  "description": "Plataforma escolar de correção de provas por gabarito."
+}
